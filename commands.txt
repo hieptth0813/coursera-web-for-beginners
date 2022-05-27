@@ -1,0 +1,4 @@
+//to create a virtual host server using browser sync
+browser-sync start --server --directory --files "*"
+
+//to quickly deploy and html template, press "Ctrl Space" after typing html.
